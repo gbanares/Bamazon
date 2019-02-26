@@ -24,3 +24,7 @@ It's a node terminal app where you can create a "store" with a sql database to c
 * NodeJS
 * SQL
 * JavaScript
+
+### Demo
+
+[![Bamazon](http://img.youtube.com/vi/ETZ_huLnYSg/0.jpg)](http://www.youtube.com/watch?v=ETZ_huLnYSg)
