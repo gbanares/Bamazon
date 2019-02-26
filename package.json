@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "like amazon, but not",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbanares/bamazon.git"
+  },
+  "author": "Gian Banares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbanares/bamazon/issues"
+  },
+  "homepage": "https://github.com/gbanares/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.5"
+  },
+  "devDependencies": {}
+}
